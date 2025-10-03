@@ -1,0 +1,14 @@
+A:\CARO_3X3\demo\bin\Debug\demo.exe.config
+A:\CARO_3X3\demo\bin\Debug\demo.exe
+A:\CARO_3X3\demo\bin\Debug\demo.pdb
+A:\CARO_3X3\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+A:\CARO_3X3\demo\obj\Debug\MainWindow.baml
+A:\CARO_3X3\demo\obj\Debug\MainWindow.g.cs
+A:\CARO_3X3\demo\obj\Debug\App.g.cs
+A:\CARO_3X3\demo\obj\Debug\demo_MarkupCompile.cache
+A:\CARO_3X3\demo\obj\Debug\demo.g.resources
+A:\CARO_3X3\demo\obj\Debug\demo.Properties.Resources.resources
+A:\CARO_3X3\demo\obj\Debug\demo.csproj.GenerateResource.cache
+A:\CARO_3X3\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+A:\CARO_3X3\demo\obj\Debug\demo.exe
+A:\CARO_3X3\demo\obj\Debug\demo.pdb

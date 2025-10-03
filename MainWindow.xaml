@@ -1,0 +1,9 @@
+﻿<Window x:Class="CaroGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Caro Game" Height="600" Width="600">
+    <Grid>
+        <UniformGrid Name="BoardGrid" Rows="3" Columns="3"/>
+    </Grid>
+
+</Window>
